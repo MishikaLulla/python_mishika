@@ -1,0 +1,1 @@
+This repository contains Python programs that I wrote while learning Python. It includes practice exercises, examples, and small scripts to understand core programming concepts and improve problem-solving skills.
